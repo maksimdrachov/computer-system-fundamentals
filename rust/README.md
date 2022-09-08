@@ -1,0 +1,1 @@
+This folder contains the code examples written in Rust
